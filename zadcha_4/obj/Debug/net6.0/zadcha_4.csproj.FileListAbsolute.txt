@@ -1,0 +1,15 @@
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\zadcha_4.csproj.AssemblyReference.cache
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\zadcha_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\zadcha_4.AssemblyInfoInputs.cache
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\zadcha_4.AssemblyInfo.cs
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\zadcha_4.csproj.CoreCompileInputs.cache
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\bin\Debug\net6.0\zadcha_4.exe
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\bin\Debug\net6.0\zadcha_4.deps.json
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\bin\Debug\net6.0\zadcha_4.runtimeconfig.json
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\bin\Debug\net6.0\zadcha_4.dll
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\bin\Debug\net6.0\zadcha_4.pdb
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\zadcha_4.dll
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\refint\zadcha_4.dll
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\zadcha_4.pdb
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\zadcha_4.genruntimeconfig.cache
+D:\обучение GeekBrains\c#\Семинар 1\Seminar_1\zadcha_4\obj\Debug\net6.0\ref\zadcha_4.dll
